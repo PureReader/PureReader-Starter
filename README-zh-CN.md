@@ -14,6 +14,13 @@
 
 轻享阅属于**闭源软件**，但是它是以开源为标准、高度可扩展性的软件，有能力的用户和开发者可以通过与轻享阅对接，实现自己的个性化阅读体验。
 
+## 软件截图
+
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_1.jpg?raw=true" width = "150" alt="LOGO"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_2.jpg?raw=true" width = "150" alt="LOGO"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_3.jpg?raw=true" width = "150" alt="LOGO"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_4.jpg?raw=true" width = "150" alt="LOGO"/>
+
 ## 软件特色
 
 > 专注阅读体验
