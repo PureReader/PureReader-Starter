@@ -20,10 +20,10 @@ Capable users and developers can realize their own personalized reading experien
 
 ## Software ScreenShots
 
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_1.jpg?raw=true" width = "150" alt="LOGO"/>
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_2.jpg?raw=true" width = "150" alt="LOGO"/>
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_3.jpg?raw=true" width = "150" alt="LOGO"/>
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_4.jpg?raw=true" width = "150" alt="LOGO"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_1.jpg?raw=true" width = "150" alt="SCREENSHOT"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_2.jpg?raw=true" width = "150" alt="SCREENSHOT"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_3.jpg?raw=true" width = "150" alt="SCREENSHOT"/>
+<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/shot_4.jpg?raw=true" width = "150" alt="SCREENSHOT"/>
 
 ## Software Features
 
