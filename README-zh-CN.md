@@ -68,7 +68,7 @@
 > 移动平台
 
 - Android
-- iOS (iPadOS、wearOS、tvOS)
+- iOS
 - HarmonyOS
 
 ## 下载地址

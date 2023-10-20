@@ -79,7 +79,7 @@ The platforms expected to be supported are as follows:
 > Mobile Platforms
 
 - Android
-- iOS (iPadOS, wearOS, tvOS)
+- iOS
 - HarmonyOS
 
 ## Downloads
