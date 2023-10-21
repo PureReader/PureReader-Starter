@@ -1,4 +1,4 @@
-# PureReader
+# Pure Reader
 
 <img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/icon.png?raw=true" width = "100" height = "100" alt="LOGO"/>
 
