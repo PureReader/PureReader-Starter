@@ -1,10 +1,15 @@
 # Pure Reader
 
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/icon.png?raw=true" width = "100" height = "100" alt="LOGO"/>
+<img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "100" height = "100" alt="LOGO"/>
 
 Make reading easier.
 
 English | [简体中文](https://github.com/PureReader/PureReader-Starter/blob/main/README-zh-CN.md)
+
+| <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [PureReader](https://github.com/PureReader) |
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+
+This project belongs to the above-mentioned organization, **click the link above to follow this organization** and discover more good projects.
 
 ## Project Introduction
 

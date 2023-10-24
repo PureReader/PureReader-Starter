@@ -1,10 +1,15 @@
 # 轻享阅
 
-<img src="https://github.com/PureReader/PureReader-Starter/blob/main/img-src/icon.png?raw=true" width = "100" height = "100" alt="LOGO"/>
+<img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "100" height = "100" alt="LOGO"/>
 
 让阅读变得更简单。
 
 [English](https://github.com/PureReader/PureReader-Starter/blob/main/README.md) | 简体中文
+
+| <img src="https://github.com/PureReader/.github/blob/main/img-src/logo.png?raw=true" width = "30" height = "30" alt="LOGO"/> | [PureReader](https://github.com/PureReader) |
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+
+这个项目属于上述组织，**点击上方链接关注这个组织**，发现更多好项目。
 
 ## 项目介绍
 
